@@ -65,7 +65,8 @@
   /* sertifikalarim */
   .child_sertifikalarim {
     flex-basis: 100%;
-    margin-bottom: 30px;
+    margin: 50px 40px 50px 40px;
+    padding: 10px 30px;
   }
   /* basarilarim */
 
