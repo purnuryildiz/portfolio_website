@@ -2,7 +2,7 @@
 
 <p>This is a modern and responsive portfolio website designed to showcase your skills and certifications. It features a clean and adaptable layout, making it easy to present your work and professional credentials effectively.</p>
 
-<h1>Features</h1>
+<h2>Features</h2>
 
 <list>
 
@@ -16,6 +16,6 @@
 
 </list>
 
-<h1>Preview:</h1>
+<h2>Preview:</h2>
 
 ![](image.gif)
